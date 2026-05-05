@@ -1,6 +1,6 @@
 # Evolution of Network Perimeter Defense: A Comprehensive Analysis of Firewalls and VPNs
 
-Sura Saravanan
+Suriyah Saravanan
 
 Department of Business, Florida Atlantic University
 
