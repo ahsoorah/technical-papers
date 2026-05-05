@@ -1,7 +1,7 @@
 # Technical Research & Analysis Papers
 **Suriyah Saravanan** *BBA in Management Information Systems | Florida Atlantic University*
 
-Welcome to my technical library. This site hosts whitepapers and deep-dives into systems architecture, cybersecurity concepts, and the future of technology.
+Welcome to my research paper library. This site hosts whitepapers and deep-dives into systems architecture, cybersecurity concepts, and the future of technology.
 
 ---
 
