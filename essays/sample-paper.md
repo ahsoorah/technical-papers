@@ -1,4 +1,4 @@
-Evolution of Network Perimeter Defense: A Comprehensive Analysis of Firewalls and VPNs
+# Evolution of Network Perimeter Defense: A Comprehensive Analysis of Firewalls and VPNs
 
 Sura Saravanan
 
@@ -12,7 +12,7 @@ April 26, 2026
 
 
 
-Introduction
+## Introduction
 
 In our current digital era, the traditional idea that a network has a fixed, physical boundary is no longer accurate. As organizations move towards work models that combines office and remote locations permanently, as well as use infrastructure that connects to the cloud, the total number of points where an attacker can attempt to gain access has increased significantly. According to the Check Point (2025) Security Report, cyberattacks across the world are 44% more frequent than they were in the recent past. Such an increase is occurring due to the rapid growth of systems outpacing security patches, as well as attackers weaponizing generative artificial intelligence (GenAI). Today, where digital security has become a strict, pressing requirement, two of the core pillars of network defense - firewalls and virtual private networks (VPNs) - are no longer just afterthoughts for safety; they are necessities that protect an organization’s assets and the accuracy of data.
 It is only through understanding the distinctions between these two technologies that one can create an effective defense-in-depth framework. The firewall, designed to analyze packets, acts as the defender of the network. It is situated at the network edge and helps monitor and control the traffic flow through the network based on certain set criteria or policies (Check Point, 2025). The role of the firewall is to ensure that any unauthorized access is prevented by inspecting the data packets for their source and destination IP addresses, port numbers, and protocols (GeeksforGeeks, 2025). On the other hand, the Virtual Private Network creates an encrypted tunnel between two entities (Sparklight, 2023).
@@ -20,7 +20,7 @@ Their connection, therefore, is complementary. The conventional enterprise archi
 
 This paper will delve into the history of the firewall and the VPN, research findings about them in 2025 trends, and the growing movement towards the implementation of Zero Trust Virtual Private Networks (ZT-VPNs) and Secure Access Service Edge (SASE). Through the implementation of continuous authentication and high-level encryption, organizations can go from having a vulnerable security posture to one that is highly resilient and robust enough to be able to detect and neutralize the sophisticated, evolving cyberattacks of the present and future.
 
-Background
+## Background
 
 The development of firewalls and VPNs show the history of moving from open, free connectivity to highly restricted, identity-based access controls (IBAC). Understanding the historical trajectory of these tools is essential to knowing why modern integrated frameworks, such as SASE, have become a necessity.
 The firewall started out as a primitive packet filter working at Layer 3 of the OSI model. Early stateless firewalls would evaluate packets individually using static information like IP addresses and port numbers without any knowledge of the overall context of the connection (GeeksforGeeks, 2025). The evolution of cyberthreats led to improved firewalls in the form of stateful packet inspection firewalls, capable of observing the state of the connection. In doing so, they analyzed the TCP three-way handshake consisting of synchronization and acknowledgement packets to confirm the legitimacy of packets belonging to an already established connection (Check Point, 2025). Today, the industry has transitioned to the Next-Generation Firewall (NGFW). Unlike their predecessors, NGFWs perform deep packet inspection (DPI) and operate at Layer 7 of the OSI model. This allows administrators to block specific high-risk applications or behaviors within a connection that might otherwise appear legitimate to a standard packet filter (Palo Alto Networks, 2024).
@@ -29,7 +29,7 @@ However, technical efficiency of this secure tunnel technology relies highly on 
 
 Moreover, the physical configuration of such defenses is available in several form factors either as hardware or software solutions. A hardware firewall refers to a standalone physical device located between the local network and the internet, which facilitates the need to be physically configured by highly skilled personnel. However, virtual firewalls are software-based and running within a virtual machine/server; hence, they are easy to scale and configure using cloud-based automation software (Palo Alto Networks, 2024). This dual approach has proven necessary in my personal experience as an IT Intern for a Fire Rescue department. The configuration of hardware firewalls in physical offices such as fire stations ensures that the perimeter is secured, but the necessity for virtual firewalls cannot be ignored to ensure that first responders who are on call or working from home can access sensitive and oftentimes mission-critical applications securely.
 
-Research and Findings
+## Research and Findings
 
 The cybersecurity environment in 2025 can be described as a shift from targeted, one-time attacks to chronic, AI-driven persistence. Research on the current tactics used by threat actors reveals that traditional defenses are being bypassed through three key methods: the weaponization of artificial intelligence, the exploitation of edge devices, and the emergence of the threat of post-quantum cryptography.
 
@@ -43,7 +43,7 @@ More forward-looking research findings involve the rise of Post-Quantum Cryptogr
 
 Finally, academic research into the Zero Trust VPN framework shows a solution to the latency and security gaps present in traditional VPNs. The ZT-VPN model addresses critical concerns regarding throughput and scalability by continuously verifying every user and device attempting to access resources (Zohaib et al, 2024). Unlike a standard VPN that grants broad network access upon login, the ZT-VPN framework enforces least-privilege access permissions, ensuring that even if a user’s credentials are stolen, the attacker is limited to a single, isolated channel rather than the entire corporate infrastructure.
 
-Conclusion
+## Conclusion
 
 The evolution of network security from its traditional hardware-oriented and centralized approach into a more decentralized and identity-driven one is a much-needed change amidst an ever-growing hostile environment of digital threats. As shown throughout this paper, the old distinctions between firewalls and VPNs are being blurred by new frameworks such as SASE and ZT-VPN. Although a firewall is still crucial for inspecting packets and a VPN ensures security through encryption, it’s noted that the increase in cyberattacks described by Check Point shows that each is not enough on its own.
 The results of this research show that the future of cybersecurity will be defined by the AI vs. AI arms race and the proactive implementation of post-quantum cryptography standards. The discovery that attackers are leveraging GenAI to create realistic phishing campaigns and PQC to conceal their activities means that companies should seek to administer Precision AI and continual authentication (Oswal, 2024). Being an MIS specialist in the sphere of public safety technology, I can confidently state that the implementation of these technologies is not just a technical upgrade but an eventual mission-critical necessity. The Zero Trust framework will become the only logical path forward for industries such as rescue services, where the integrity of information and availability of systems can become a matter of life and death.
@@ -51,7 +51,7 @@ The results of this research show that the future of cybersecurity will be defin
 Ultimately, the aim of a modern security system should be to create a frictionless user experience without compromising on security. By utilizing the comprehensive protection offered by next-gen firewalls along with the safe and secure access provided by ZT-VPNs, organizations can construct a formidably resilient internal network. This strategy not only helps in detecting and neutralizing the existing threats of today, but futureproofs the system and equips it to handle the emerging quantum and AI-driven threats of tomorrow.
 
 
-References
+## References
 
 Anand Oswal. (2024, December 12). 8 Trends Reshaping Network Security in 2025. Palo Alto Networks Blog. https://www.paloaltonetworks.com/blog/2024/12/8-trends-network-security-in-2025/
 
@@ -70,6 +70,3 @@ GeeksforGeeks. (2025, June 22). Firewall vs VPN: Which One to Use in 2025. Geeks
 Bright, A. (2024, July 4). Firewalls and VPNs: How They Work Together to Secure Remote Access -. OutsourceITsecurity.com. https://outsourceitsecurity.com/firewalls-and-vpns-how-they-work-together-to-secure-remote-access
 
 What is VPN? Firewall? Both? We’ve Got Answers to Your Questions. (2023). Sparklight Business. https://business.sparklight.com/the-wire/tech-talk/cybersecurity/what-vpn-firewall-both-weve-got-answers-your-questions
-
-
-
