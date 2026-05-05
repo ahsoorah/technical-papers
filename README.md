@@ -1,2 +1,2 @@
 # technical-papers
-A collection of whitepapers, technical analyses, and MIS research by Suriyah Saravanan.
+A collection of whitepapers, technical analyses, and business cybersecurity research by Suriyah Saravanan.
