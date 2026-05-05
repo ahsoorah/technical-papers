@@ -1,11 +1,11 @@
 # Technical Research & Analysis Papers
 **Suriyah Saravanan**<br></br>*BBA in Management Information Systems, Cybersecurity | Florida Atlantic University*
 
-Welcome to my research paper library. This site hosts whitepapers and deep-dives into systems architecture, cybersecurity concepts, and the future of technology.
+Welcome to my FAU research paper library. This site hosts whitepapers and deep-dives into systems architecture, cybersecurity concepts, and the future of technology.
 
 ---
 
-## 📑 Featured Papers
+## Featured Papers
 
 ### [Evolution of Network Perimeter Defense: A Comprehensive Analysis of Firewalls and VPNs](./essays/sample-paper.md)
 *An exploration of the shift from physical boundaries to identity-based security frameworks in the age of AI-driven persistence.*
