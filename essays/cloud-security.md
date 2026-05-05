@@ -1,6 +1,6 @@
 # The Vulnerabilities of Virtualization: An Analysis of Cloud Security
 
-Mishael Norgaisse, Enrique, Sura Saravanan, Sofia Gonzalez
+Mishael Norgaisse, Enrique Hernandez, Suriyah Saravanan, Sofia Gonzalez
 
 Florida Atlantic University
 
