@@ -7,7 +7,7 @@ Welcome to my FAU research paper library. This site hosts whitepapers and deep-d
 
 ## Featured Papers
 
-### [Evolution of Network Perimeter Defense: A Comprehensive Analysis of Firewalls and VPNs](./essays/sample-paper.md)
+### [Evolution of Network Perimeter Defense: A Comprehensive Analysis of Firewalls and VPNs](./essays/firewall-vpn.md)
 *An exploration of the shift from physical boundaries to identity-based security frameworks in the age of AI-driven persistence.*
 
 * **Strategic Scope:** Investigates the transition from stateless packet filtering to Layer 7 Deep Packet Inspection (DPI) and the necessity of **Next-Generation Firewalls (NGFW)**.
