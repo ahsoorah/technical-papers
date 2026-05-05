@@ -10,7 +10,7 @@ Professor Zsuzsa Pusztai
 
 April 26, 2026
 
-
+---
 
 ## Introduction
 
@@ -21,6 +21,8 @@ Their connection, therefore, is complementary. The conventional enterprise archi
 
 This paper will delve into the history of the firewall and the VPN, research findings about them in 2025 trends, and the growing movement towards the implementation of Zero Trust Virtual Private Networks (ZT-VPNs) and Secure Access Service Edge (SASE). Through the implementation of continuous authentication and high-level encryption, organizations can go from having a vulnerable security posture to one that is highly resilient and robust enough to be able to detect and neutralize the sophisticated, evolving cyberattacks of the present and future.
 
+---
+
 ## Background
 
 The development of firewalls and VPNs show the history of moving from open, free connectivity to highly restricted, identity-based access controls (IBAC). Understanding the historical trajectory of these tools is essential to knowing why modern integrated frameworks, such as SASE, have become a necessity.
@@ -30,6 +32,8 @@ The origins of the use of the VPN can be traced back to the requirement for ensu
 However, technical efficiency of this secure tunnel technology relies highly on the VPN protocols utilized in securing and sending data packets. The IPsec protocol is still widely implemented for securing traffic between devices on the Internet, as the protocol ensures authentication and encryption of each packet of information throughout the communication session (Palo Alto Networks, 2024). Alternatively, the OpenVPN protocol allows establishing secure connections between two sites or remote hosts and is characterized by its robust open-source implementation. Recently, WireGuard emerged as an efficient solution for the consumer and corporate worlds; the open-source tunnel technology features modern cryptography and high-speed, low-latency communication better than legacy protocols such as PPTP (Palo Alto Networks, 2024).
 
 Moreover, the physical configuration of such defenses is available in several form factors either as hardware or software solutions. A hardware firewall refers to a standalone physical device located between the local network and the internet, which facilitates the need to be physically configured by highly skilled personnel. However, virtual firewalls are software-based and running within a virtual machine/server; hence, they are easy to scale and configure using cloud-based automation software (Palo Alto Networks, 2024). This dual approach has proven necessary in my personal experience as an IT Intern for a Fire Rescue department. The configuration of hardware firewalls in physical offices such as fire stations ensures that the perimeter is secured, but the necessity for virtual firewalls cannot be ignored to ensure that first responders who are on call or working from home can access sensitive and oftentimes mission-critical applications securely.
+
+---
 
 ## Research and Findings
 
@@ -45,6 +49,8 @@ More forward-looking research findings involve the rise of Post-Quantum Cryptogr
 
 Finally, academic research into the Zero Trust VPN framework shows a solution to the latency and security gaps present in traditional VPNs. The ZT-VPN model addresses critical concerns regarding throughput and scalability by continuously verifying every user and device attempting to access resources (Zohaib et al, 2024). Unlike a standard VPN that grants broad network access upon login, the ZT-VPN framework enforces least-privilege access permissions, ensuring that even if a user’s credentials are stolen, the attacker is limited to a single, isolated channel rather than the entire corporate infrastructure.
 
+---
+
 ## Conclusion
 
 The evolution of network security from its traditional hardware-oriented and centralized approach into a more decentralized and identity-driven one is a much-needed change amidst an ever-growing hostile environment of digital threats. As shown throughout this paper, the old distinctions between firewalls and VPNs are being blurred by new frameworks such as SASE and ZT-VPN. Although a firewall is still crucial for inspecting packets and a VPN ensures security through encryption, it’s noted that the increase in cyberattacks described by Check Point shows that each is not enough on its own.
@@ -53,6 +59,7 @@ The results of this research show that the future of cybersecurity will be defin
 
 Ultimately, the aim of a modern security system should be to create a frictionless user experience without compromising on security. By utilizing the comprehensive protection offered by next-gen firewalls along with the safe and secure access provided by ZT-VPNs, organizations can construct a formidably resilient internal network. This strategy not only helps in detecting and neutralizing the existing threats of today, but futureproofs the system and equips it to handle the emerging quantum and AI-driven threats of tomorrow.
 
+---
 
 ## References
 
