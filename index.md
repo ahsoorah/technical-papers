@@ -22,7 +22,7 @@ Welcome to my FAU research paper library. This site hosts whitepapers and deep-d
 
 * **Architectural Critique:** Analyzes the **Shared Responsibility Model** and the common pitfalls of migrating from on-premise infrastructure to Infrastructure as a Service (IaaS) and Software as a Service (SaaS).
 * **Identity as the New Perimeter:** Examines **Identity and Access Management (IAM)** failures, specifically the critical role of the **Principle of Least Privilege (PoLP)** and Multi-Factor Authentication (MFA) in neutralizing credential theft and privilege escalation.
-* **API & Microservice Security:** Breaks down the fundamental "glue" of the cloud-Application Programming Interfaces (APIs)-with a focus on **Broken Object Level Authorization (BOLA)** and the cascading effects of supply chain risks.
+* **API & Microservice Security:** Breaks down the fundamental "glue" of the cloud - Application Programming Interfaces (APIs) - with a focus on **Broken Object Level Authorization (BOLA)** and the cascading effects of supply chain risks.
 * **Human-Centric Vulnerabilities:** Addresses the gap between automated cloud tools and the human element, arguing that "misconfigurations" are often a symptom of organizational oversight rather than technical failure.
 
 ---
@@ -33,7 +33,7 @@ Welcome to my FAU research paper library. This site hosts whitepapers and deep-d
 * **Architectural Framework:** Implementation of a centralized **Star Topology** and Main Distribution Frame (MDF) to ensure fault isolation and seamless organizational scalability.
 * **Network Segmentation:** Utilization of **IEEE 802.1Q VLANs** to logically isolate guest wireless traffic from sensitive corporate tax records.
 * **Redundancy & Fault Tolerance:** Integration of **RAID 1 (Mirroring)**, Dual-WAN failover (Fiber/5G), and UPS battery bridges to achieve a "zero-downtime" mission-critical environment.
-* **Fiscal Responsibility:** Successfully engineered a full-stack enterprise solution-including security gateways and Active Directory servers within a **$10,000 capital expenditure budget**.
+* **Fiscal Responsibility:** Successfully engineered a full-stack enterprise solution, including security gateways and Active Directory servers, within a **$10,000 capital expenditure budget**.
 
 ---
 
