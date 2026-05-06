@@ -306,5 +306,4 @@ IAM Framework for Secure Green Mobility: A Case Study with Keycloak and
 Kubernetes. Information, 16(9), 802. https://doi.org/10.3390/info16090802
 
 Vaideeswaran, N. (2025, January 8). What is Principle of Least Privilege (POLP)? | CrowdStrike.
-Crowdstrike.com. https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/principle-of-lea
-st-privilege-polp/
+Crowdstrike.com. https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/principle-of-least-privilege-polp/
