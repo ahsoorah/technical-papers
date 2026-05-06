@@ -1,0 +1,47 @@
+---
+---
+@import "{{ site.theme }}";
+
+// --- CUSTOM GOLDEN HACKER OVERRIDES ---
+
+// Main text and header colors
+body {
+  color: #ffcc00; // Classic Golden Yellow
+  background-color: #000000;
+}
+
+header {
+  border-bottom: 1px solid #d4af37; // Metallic Gold border
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffdb58; // Muted Gold for headers
+}
+
+// Links - Making them a brighter "Cyber Gold"
+a {
+  color: #ffeb3b;
+  text-decoration: none;
+  &:hover {
+    color: #ffffff;
+    text-shadow: 0 0 5px #ffcc00; // Subtle golden glow on hover
+  }
+}
+
+// Code blocks and inline code
+code {
+  color: #ffdf00;
+  background: #1a1a1a;
+  border: 1px solid #333;
+}
+
+// Footer cleanup
+footer {
+  color: #888;
+  border-top: 1px solid #d4af37;
+}
+
+// The specific "Hacker" theme footer link override
+header h1 a {
+  color: #ffcc00 !important;
+}
