@@ -282,9 +282,7 @@ Market Share Analysis: Infrastructure as a Service, Worldwide, 2023. (2023). Gar
 https://www.gartner.com/en/documents/5539195
 
 Microsoft. (2024). What is Identity Access Management (IAM)? | Microsoft Security.
-Www.microsoft.com.
-https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-
-management-iam
+www.microsoft.com. https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam
 
 Rose, S. W., Borchert, O., Mitchell, S., & Connelly, S. (2020). Zero Trust Architecture.
 Www.nist.gov, 800-207. https://www.nist.gov/publications/zero-trust-architecture
@@ -293,8 +291,7 @@ Top Cloud Threats | CSA. (n.d.). Cloudsecurityalliance.org.
 https://cloudsecurityalliance.org/research/topics/top-threats
 
 Top Threats 2025 | 8 Real-World Cybersecurity Breaches | CSA. (2025).
-Cloudsecurityalliance.org.
-https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-2025
+Cloudsecurityalliance.org. https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-2025
 
 Amazon Web Services. (2025). What is an API? - API Beginner’s Guide - AWS. Amazon Web
 Services, Inc. https://aws.amazon.com/what-is/api/
@@ -309,6 +306,5 @@ IAM Framework for Secure Green Mobility: A Case Study with Keycloak and
 Kubernetes. Information, 16(9), 802. https://doi.org/10.3390/info16090802
 
 Vaideeswaran, N. (2025, January 8). What is Principle of Least Privilege (POLP)? | CrowdStrike.
-Crowdstrike.com.
-https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/principle-of-lea
+Crowdstrike.com. https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/principle-of-lea
 st-privilege-polp/
