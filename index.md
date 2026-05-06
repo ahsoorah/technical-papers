@@ -27,5 +27,15 @@ Welcome to my FAU research paper library. This site hosts whitepapers and deep-d
 
 ---
 
+### [Network Design Proposal: H&M Boutique Law Firm](./essays/network-design-proposal.md)
+*A comprehensive infrastructure design for a specialized legal practice, prioritizing high-availability, the CIA Triad, and fiscal optimization.*
+
+* **Architectural Framework:** Implementation of a centralized **Star Topology** and Main Distribution Frame (MDF) to ensure fault isolation and seamless organizational scalability.
+* **Network Segmentation:** Utilization of **IEEE 802.1Q VLANs** to logically isolate guest wireless traffic from sensitive corporate tax records.
+* **Redundancy & Fault Tolerance:** Integration of **RAID 1 (Mirroring)**, Dual-WAN failover (Fiber/5G), and UPS battery bridges to achieve a "zero-downtime" mission-critical environment.
+* **Fiscal Responsibility:** Successfully engineered a full-stack enterprise solution—including security gateways and Active Directory servers—within a **$10,000 capital expenditure budget**.
+
+---
+
 ## Tech Stack
 This site is generated using **Jekyll** and **GitHub Pages**, tracking all revisions via **Git** to ensure a transparent, version-controlled research history.
